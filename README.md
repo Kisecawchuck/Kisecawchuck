@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bronzong, o melhor Pokémon
 
 <!--
 **Kisecawchuck/Kisecawchuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Anexada a este repositório está a minha chave PGP pública para "igor (dot) n (dot) 216 (arroba) usp (dot) br" email.
