@@ -1,4 +1,4 @@
-## kisecawchuck é um nome gerado aleatoriamente.
+## kisecawchuck é um nome gerado aleatoriamente
 
 <!--
 **Kisecawchuck/Kisecawchuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
